@@ -16,7 +16,7 @@ Observe the files in this repo:
   * Don't forget to add a `</div>` at the end (right before `</body>`).
 * Wrap all similarities with a `div` with attribute `class="similarities"`.  
 * Wrap all differences with a `div` with attribute `class="differences"`.  
-* Wrap the words **containers**, **block**, and **inline** with _their own_ `span`s with attribute `class="blue"`.
+* Wrap the words **containers**, **block**, and **inline** with _their own_ `span` elements with attribute `class="blue"`.
 * When you are finished, the preview should look like `result.png`.
 * Beautify your code so that you can easily see which elements are _inside_ of others (very helpful for debugging `div`s).  
   * _NOTE: the cloud9 keyboard shortcut is_ `⌘+shift+B`
