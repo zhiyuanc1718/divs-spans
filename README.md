@@ -20,7 +20,7 @@ Observe the files in this repo:
 * When you are finished, the preview should look like `result.png`.
 * Beautify your code so that you can easily see which elements are _inside_ of others (very helpful for debugging `div`s).  
   * _NOTE: the cloud9 keyboard shortcut is_ `⌘+shift+B`
-* Mirror your `master` branch with a `gh-pages` branch and `push`.
+* Make sure you `add`/`commit`/`push`.  Then go into your repo's settings on github and change gh-pages to use the `master` branch.
 * If you finish early, add a section to the bottom with links to helpful resources for learning more about `<div>`s and `<span>`s.
 
 Good luck!
